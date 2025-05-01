@@ -2,7 +2,7 @@
 
 0417 專案介紹的影片連結：[點我前往](https://youtu.be/PKvbVE9k86s?si=69DOeXSJBtlHlbdS)
 
-0501 第二次提案的影片連結:[點我前往](https://youtu.be/4jOqs20Hi4M?si=2QWrYir0OfDzEq6f)
+0501 進度匯報的影片連結:[點我前往](https://youtu.be/4jOqs20Hi4M?si=2QWrYir0OfDzEq6f)
 
 專案連結：[點我前往](https://colab.research.google.com/github/jaunty0216/Final_Project_forNTNU/blob/main/%E9%99%AA%E4%BD%A0%E8%81%8A%E8%81%8A%E7%9A%84%E5%BF%83%E7%90%86%E8%AB%AE%E5%95%86%E5%B0%8F%E5%8A%A9%E6%89%8B.ipynb)
 
