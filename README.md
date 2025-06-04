@@ -9,7 +9,7 @@
 專案github：[點我前往](https://colab.research.google.com/github/jaunty0216/Final_Project_forNTNU/blob/main/%E9%99%AA%E4%BD%A0%E8%81%8A%E8%81%8A%E7%9A%84%E5%BF%83%E7%90%86%E8%AB%AE%E5%95%86%E5%B0%8F%E5%8A%A9%E6%89%8B.ipynb)
 
 專案網站：[點我前往](https://sites.google.com/view/lets-talk-and-heal-together/%E9%A6%96%E9%A0%81)
-
+---
 專案文字簡介：
 當今社會對心理健康的關注日益提升，我們深刻體會到科技在心理健康照護方面能夠發揮重要作用。
 
